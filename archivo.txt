@@ -4,3 +4,4 @@ validacion mision 6
 commit cuenta 1
 cambio 1
 mision 6 parte 1
+cambio 1
