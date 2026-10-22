@@ -1,0 +1,73 @@
+18a5537 bohe-dot <o.bohe@gmail.com> Cambio real con segundo autor
+2728eea bohe-dot <o.bohe@gmail.com> Commit definitivo bohe-dot
+31019f1 bohe-dot <o.bohe@gmail.com> Commit cuenta nueva
+c3adccb bohe-dot <oo.bohe@gmail.com> Commit de la cuenta nueva
+f9b4246 Colaborador Externo <otro.autor@ejemplo.com> Commit segundo autor real
+5dcb07c Companero B <otro.autor.distinto.999@ejemplo.com> Merge branch 'alta-2-Oscaarsg'
+e2f7cec Colaborador Externo <otro.autor@ejemplo.com> Commit segundo autor
+47a4c52 Colaborador Externo <companero.mision6@ejemplo.com> Commit segundo autor real
+0656895 Companero B <otro.autor.distinto.999@ejemplo.com> Commit nuevo de prueba
+8685ca9 Companero B <companero.mision6@ejemplo.com> Commit de otro autor
+112a8b6 Companero B <otro.usuario.diferente@ejemplo.com> Commit con segundo autor automático
+77d0371 Companero B <otro.usuario.diferente@ejemplo.com> Commit de segunda persona real
+75105e4 Persona B <colaborador_distinto_mision6@gmail.com> Commit segundo autor
+15bae73 Otro Usuario <otro_correo_diferente@test.com> Commit de segunda persona registrado
+0e6d7af Companero B <companero2@ejemplo.com> Commit de segunda persona
+a63c838 Companero B <companerob@ejemplo.com> Revisión colaborativa Misión 6
+a626538 Companero B <companerob@ejemplo.com> Revisión colaborativa Misión 6
+838798b Companero B <companerob@ejemplo.com> Revisión colaborativa Misión 6
+88b4734 Oscaarsg <oscaarsg99@gmail.com> Merge pull request #1 from Oscaarsg/ticket-ram-recepcion
+b77a709 Óscar Sánchez <oscaarsg99@gmail.com> Cambio para la PR
+0d608bb Companero B <companerob@ejemplo.com> Revisión colaborativa Misión 6
+880c993 Companero B <companerob@ejemplo.com> Revisión colaborativa Misión 6
+0e49899 Óscar Sánchez <oscaarsg99@gmail.com> Merge branch 'ticket-ram-recepcion'
+4d93ada Óscar Sánchez <oscaarsg99@gmail.com> Ajuste para Pull Request Misión 6
+7e2d0c8 Companero B <companerob@ejemplo.com> Revisión colaborativa Misión 6
+beb7da4 Companero B <companerob@ejemplo.com> Revisión colaborativa Misión 6
+a76d56a Companero B <companerob@ejemplo.com> Revisión colaborativa Misión 6
+8282de3 Companero B <companerob@ejemplo.com> Revisión Mision 6
+bfc12c0 Compañero <companero@ejemplo.com> Revisión y colaboración en Misión 6
+8f1d4b7 Compañero <companero@ejemplo.com> Revisión y colaboración en Misión 6
+3ab4834 Óscar Sánchez <oscaarsg99@gmail.com> Añade registro de incidencia de pc-aula1-03
+589c111 Óscar Sánchez <oscaarsg99@gmail.com> Amplía la RAM del PC de recepción a 16 GB
+6ddef44 Óscar Sánchez <oscaarsg99@gmail.com> Añade presentación limpia desde upstream
+d46a487 Óscar Sánchez <oscaarsg99@gmail.com> Usa los nombres de dispositivo portatil-direccion y srv-impresion
+b7e3b77 Óscar Sánchez <oscaarsg99@gmail.com> Corrige tabla de direcciones IP
+f7b4b4b Óscar Sánchez <oscaarsg99@gmail.com> Corrige el formato y las IPs de dirección e impresión
+5daae2d Óscar Sánchez <oscaarsg99@gmail.com> Añade el portátil de dirección al plan de IPs
+7b3fa1a Óscar Sánchez <oscaarsg99@gmail.com> Añade el portátil de dirección al plan de IPs
+d6fb466 Óscar Sánchez <oscaarsg99@gmail.com> Resuelve conflicto manteniendo todas las IPs
+41cfe3a Óscar Sánchez <oscaarsg99@gmail.com> Merge branch 'aula-2'
+102efa8 Óscar Sánchez <oscaarsg99@gmail.com> Resuelve conflicto en direcciones-ip.md
+8da450a Óscar Sánchez <oscaarsg99@gmail.com> Añade la impresora de recepción al inventario
+fd7db2d Óscar Sánchez <oscaarsg99@gmail.com> Añade .gitignore para no subir secretos ni logs
+1a59828 Óscar Sánchez <oscaarsg99@gmail.com> Recupera el procedimiento de alta de usuarios, por borrado porr error
+35b1e46 Oscaarsg <oscaarsg99@gmail.com> Update oscaarsg.md
+4f5ad38 Oscaarsg <oscaarsg99@gmail.com> Update oscaarsg.md
+8375411 Óscar Sánchez <oscaarsg99@gmail.com> Añade la ficha de Óscar Sánchez
+3dfaf86 Óscar Sánchez <oscaarsg99@gmail.com> Misión 1 completada
+eb9abaf Carlos Ruiz <carlos.ruiz@technova.example> Reserva la IP .50 para el portátil de dirección
+b1e298b Javi Gómez <javi.gomez@technova.example> Añade el servidor de impresión
+4c91f46 Ana Torres <ana.torres@technova.example> Añade el PC del profesor al aula 2
+544b981 Ana Torres <ana.torres@technova.example> Añade los equipos del aula 2
+a50cd9e Laura Martín <laura.martin@technova.example> Prepara el material del taller para el personal en prácticas
+c304cb2 Laura Martín <laura.martin@technova.example> Cambia el disco de pc-admin-02 por uno de 1 TB
+a3c233f Javi Gómez <javi.gomez@technova.example> Registra las incidencias de la semana
+823396c Ana Torres <ana.torres@technova.example> Documenta el script de copias
+edff982 Carlos Ruiz <carlos.ruiz@technova.example> Limpia archivos antiguos
+2002536 Laura Martín <laura.martin@technova.example> Añade normas nuevas al LEEME
+fca4ae5 Ana Torres <ana.torres@technova.example> Añade al alta de usuarios el paso de la contraseña temporal
+e20ceb7 Javi Gómez <javi.gomez@technova.example> Optimiza el script de copias para ahorrar espacio en el NAS
+9647651 Carlos Ruiz <carlos.ruiz@technova.example> Reserva IP para el NAS de copias
+43dad2d Javi Gómez <javi.gomez@technova.example> Añade la impresora de recepción
+5753acc Carlos Ruiz <carlos.ruiz@technova.example> Mejora el script de copias: una carpeta por día y registro en log
+22c2135 Ana Torres <ana.torres@technova.example> Añade los equipos del aula de formación
+90f9a51 Javi Gómez <javi.gomez@technova.example> Añade el procedimiento de registro de incidencias
+cd11f5f Laura Martín <laura.martin@technova.example> Borra router.conf: las contraseñas NO van en el repositorio
+72b949f Ana Torres <ana.torres@technova.example> Documenta el procedimiento de alta de usuarios
+7754e50 Laura Martín <laura.martin@technova.example> Añade el script de copias de seguridad
+e7f96d3 Carlos Ruiz <carlos.ruiz@technova.example> Sube la configuración del router
+e4cde13 Ana Torres <ana.torres@technova.example> Añade el inventario de impresoras
+f819288 Carlos Ruiz <carlos.ruiz@technova.example> Añade el plan de direcciones IP
+5b9343b Laura Martín <laura.martin@technova.example> Añade el inventario de equipos
+07c79f9 Laura Martín <laura.martin@technova.example> Primer commit: documentación del departamento de sistemas
