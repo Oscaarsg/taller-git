@@ -16,3 +16,4 @@ Cuando alguien avisa de un problema:
 | 22/10/2026 | pc-aula1-03 | No detecta el ratón | Cambiado de puerto USB | Oscar |
 | 22/10/2026 | pc-aula1-03 | No detecta el ratón | Cambiado de puerto USB | Oscar |
 | 22/10/2026 | Incidencia de prueba 1 | Resuelto |
+| 22/10/2026 | Incidencia de prueba 2 | Resuelto |
