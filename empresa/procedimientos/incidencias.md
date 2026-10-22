@@ -15,3 +15,4 @@ Cuando alguien avisa de un problema:
 | 08/10/2026 | pc-recepcion | Va muy lento al abrir el correo | Resuelto: ampliada RAM a 16 GB | Javi |
 | 22/10/2026 | pc-aula1-03 | No detecta el ratón | Cambiado de puerto USB | Oscar |
 | 22/10/2026 | pc-aula1-03 | No detecta el ratón | Cambiado de puerto USB | Oscar |
+| 22/10/2026 | Incidencia de prueba 1 | Resuelto |
